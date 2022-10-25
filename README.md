@@ -33,7 +33,8 @@ print(w, x, y, z, sep='-----')
 ```
 
 
-![Screenshot (131)](https://user-images.githubusercontent.com/115542704/197802846-a13d2ca4-b415-4f6b-abe3-964b576d5800.png)
+![Screenshot (130)](https://user-images.githubusercontent.com/115542704/197803182-5f8e3612-eff1-4d93-9259-92995a7a10ae.png)
+
 
 
 # String Format 
