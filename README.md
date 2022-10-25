@@ -157,7 +157,10 @@ L = phi * (r * r)
 ```
 print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
-![Gambar3](gambar/Latihan3.png)
+![Screenshot (140)](https://user-images.githubusercontent.com/115542704/197825549-abcfc2dc-1458-407a-be7d-f2300b246ca2.png)
+
 
 # Hasil Latihan 4 Luas Lingkaran
-![Gambar3](gambar/HasilLingkaran.png)
+
+![Screenshot (142)](https://user-images.githubusercontent.com/115542704/197827104-5051d33a-5b09-47e6-a40b-c31145a1e886.png)
+
