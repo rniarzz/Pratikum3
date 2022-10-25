@@ -98,7 +98,8 @@ Mencetak nilai kedua variabel ketika sudah di input
 print("variable a=",a)
 print("variable b=",b)
 ```
-![Gambar2](gambar/Latihan2,1.png)
+![Screenshot (135)](https://user-images.githubusercontent.com/115542704/197810613-29a7a0db-4066-4783-82ac-1e0a49a6e2f9.png)
+
 
 # Penggabungan Variable
 Penggabungan kedua nilai Variable 
