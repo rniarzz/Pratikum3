@@ -127,7 +127,8 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ![Screenshot (136)](https://user-images.githubusercontent.com/115542704/197814795-a8b0e6db-6e20-43de-85be-d96ebbfb5836.png)
 
 # Hasil Latihan 2
-![Gambar2](gambar/Hasil2.png)
+
+![Screenshot (137)](https://user-images.githubusercontent.com/115542704/197817527-0c1424c9-d1cb-4ae3-892e-5c688fbfb5e2.png)
 
 # Latihan 3 Menggunakan String Format untuk membuat Belah Ketupat
 ![Gambar3](gambar/Hasil3.png)
