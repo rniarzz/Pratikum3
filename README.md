@@ -135,7 +135,9 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 
 # Latihan 4 Luas Lingkaran
 # Flowchart untuk mencari Luas Lingkaran 
-![Gambar3](gambar/Flowchart.png)
+
+![Flowchart](https://user-images.githubusercontent.com/115542704/197828358-6767281d-afc7-49ff-8680-792b85f6f0da.png)
+
 # Membuat Program untuk Mencari Luas Lingkaran
 Rumus Luas Lingkaran adalah phi*r*r atau phi*r² 
 ```
