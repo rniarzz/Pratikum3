@@ -33,8 +33,8 @@ print(w, x, y, z, sep='-----')
 ```
 
 
+![Screenshot (131)](https://user-images.githubusercontent.com/115542704/197802846-a13d2ca4-b415-4f6b-abe3-964b576d5800.png)
 
-![Gambar1](gambar/Latihan1,1.png)
 
 # String Format 
 String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke dalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation. 
