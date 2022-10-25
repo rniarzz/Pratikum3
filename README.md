@@ -106,7 +106,8 @@ Penggabungan kedua nilai Variable
 ```
 print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
 ```
-![Gambar2](gambar/Latihan2,2.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/115542704/197813586-dff1c200-7095-484a-8ca3-3dfb92b684c7.png)
+
 
 # Input Variable 2
 Penggunaan python untuk menginput kedua variable 
@@ -114,7 +115,7 @@ Penggunaan python untuk menginput kedua variable
 a=int(a)
 b=int(b)
 ```
-![Gambar2](gambar/Latihan2,3.png)
+
 
 # Konversi Nilai Variable
 Mencetak kembali hasil mengkonversi nilai kedua variabel  
