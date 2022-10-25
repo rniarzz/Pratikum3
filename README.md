@@ -77,7 +77,8 @@ print('{0:>3} {1:>16}'.format(0, 10**10))
 
 # Hasil Latihan 1
 
-![Gambar1](gambar/Hasil1.png)
+![Hasil1](https://user-images.githubusercontent.com/115542704/197807033-6f5ca248-a3ca-465f-9b55-f80847d32ce5.png)
+
 
 
 ## Latihan 2
