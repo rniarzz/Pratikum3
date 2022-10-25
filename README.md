@@ -110,11 +110,12 @@ print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
 
 
 # Input Variable 2
-Penggunaan python untuk menginput kedua variable 
+Penggunaan python untuk menginput kedua variable
 ```
 a=int(a)
 b=int(b)
 ```
+![Screenshot (136)](https://user-images.githubusercontent.com/115542704/197814554-017054b1-2708-4a60-ab2e-513e255770e9.png)
 
 
 # Konversi Nilai Variable
@@ -123,7 +124,7 @@ Mencetak kembali hasil mengkonversi nilai kedua variabel
 print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ```
-![Gambar2](gambar/Latihan2,4.png)
+![Screenshot (136)](https://user-images.githubusercontent.com/115542704/197814795-a8b0e6db-6e20-43de-85be-d96ebbfb5836.png)
 
 # Hasil Latihan 2
 ![Gambar2](gambar/Hasil2.png)
