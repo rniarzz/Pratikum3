@@ -31,6 +31,9 @@ print(w, x, y, z, sep='')
 print(w, x, y, z, sep=':')
 print(w, x, y, z, sep='-----')
 ```
+
+
+
 ![Gambar1](gambar/Latihan1,1.png)
 
 # String Format 
