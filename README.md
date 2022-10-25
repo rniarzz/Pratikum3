@@ -1,52 +1,142 @@
-#### Nama: Azhyka Rizki Ramadhan
+## Nama = Azhyka Rizki Ramadhan
+## NIM = 212210287
+## Kelas = TI.22.A3
 
-#### Kelas: TI.22.A3
+# Latihan 1 
+# Penggunaan end
 
-#### NIM: 312210287
+  Parameter akhir dalam fungsi cetak digunakan untuk menambahkan string apa pun. Di akhir output dari pernyataan print dengan python.
+  Secara default, fungsi cetak diakhiri dengan baris baru.
+  Melewati spasi putih ke parameter akhir (end=' ') menunjukkan bahwa karakter akhir harus diidentifikasi oleh spasi putih dan bukan baris baru.
+```
+print('A', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('X')
+print('Y')
+print('Z')
+```
+![Gambar1](gambar/Latihan1.png)
 
+# Penggunaan Seperator
+```
+w, x, y, z = 10, 15, 20, 25
+print(w, x, y, z)
+print(w, x, y, z, sep=',')
+print(w, x, y, z, sep='')
+print(w, x, y, z, sep=':')
+print(w, x, y, z, sep='-----')
+```
+![Gambar1](gambar/Latihan1,1.png)
 
-# Latihan Bahasa Pemograman menggunakan Python 
+# String Format 
+String Formatting atau Pemformatan string memungkinkan kita menyuntikkan item ke dalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation. 
+```
+# string format
+print(0, 10**0)
+print(1, 10**1)
+print(2, 10**2)
+print(3, 10**3)
+print(4, 10**4)
+print(5, 10**5)
+print(6, 10**6)
+print(7, 10**7)
+print(8, 10**8)
+print(9, 10**9)
+print(10, 10**10)
+```
+![Gambar1](gambar/Latihan1,2.png)
 
-## Latihan 1
+# String Format 2
+```
+print('{0:>3} {1:>16}'.format(0, 10**0))
+print('{0:>3} {1:>16}'.format(0, 10**1))
+print('{0:>3} {1:>16}'.format(0, 10**2))
+print('{0:>3} {1:>16}'.format(0, 10**3))
+print('{0:>3} {1:>16}'.format(0, 10**4))
+print('{0:>3} {1:>16}'.format(0, 10**5))
+print('{0:>3} {1:>16}'.format(0, 10**6))
+print('{0:>3} {1:>16}'.format(0, 10**7))
+print('{0:>3} {1:>16}'.format(0, 10**8))
+print('{0:>3} {1:>16}'.format(0, 10**9))
+print('{0:>3} {1:>16}'.format(0, 10**10))
+```
+![Gambar1](gambar/Latihan1,3.png)
+# Hasil Latihan 1
+![Gambar1](gambar/Hasil1.png)
+## Latihan 2
 
-Pertama kita akan menjalankan perintah yang palih dasar yaitu 'print( )', untuk string gunakan tanda pentik seperti 'print(" ")'.
+# Input Variable
+Penggunaan python untuk menginput nilai variabel dengan cara
+```
+a=input("masukkan nilai a:")
+b=input("masukkan nilai b:")
+```
+![Gambar2](gambar/Latihan2.png)
 
-<img width="267" alt="Screenshot 2022-10-19 131301" src="https://user-images.githubusercontent.com/115516688/196611274-1ff089a9-1d37-4ca6-b793-8ce2d04b380d.png">
+# Cetak Variable
+Mencetak nilai kedua variabel ketika sudah di input 
+```
+print("variable a=",a)
+print("variable b=",b)
+```
+![Gambar2](gambar/Latihan2,1.png)
 
-ketika kita "RUN" hasil outputnya akan berupa kata yang kita ketik.
+# Penggabungan Variable
+Penggabungan kedua nilai Variable 
+```
+print("hasil penggabungan {1}&{0}=%s".format(a,b) %(a+b))
+```
+![Gambar2](gambar/Latihan2,2.png)
 
-<img width="654" alt="Screenshot 2022-10-19 131402" src="https://user-images.githubusercontent.com/115516688/196611418-422bc12f-06dc-4844-b3e6-984e0d2ea271.png">
+# Input Variable 2
+Penggunaan python untuk menginput kedua variable 
+```
+a=int(a)
+b=int(b)
+```
+![Gambar2](gambar/Latihan2,3.png)
 
-## Latihan 2 
+# Konversi Nilai Variable
+Mencetak kembali hasil mengkonversi nilai kedua variabel  
+```
+print("hasil penjumlahan {1}+{0}=%d".format(a,b) %(a+b))
+print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
+```
+![Gambar2](gambar/Latihan2,4.png)
 
-Langkah pertama kita membuat input angka yang ingin dimasukan.
+# Hasil Latihan 2
+![Gambar2](gambar/Hasil2.png)
 
-<img width="206" alt="Screenshot 2022-10-19 131712" src="https://user-images.githubusercontent.com/115516688/196611935-194a5c96-a58b-43c0-8723-b95424f465f2.png">
+# Latihan 3 Menggunakan String Format untuk membuat Belah Ketupat
+![Gambar3](gambar/Hasil3.png)
 
-Setelah itu gunakan command "print"
+# Latihan 4 Luas Lingkaran
+# Flowchart untuk mencari Luas Lingkaran 
+![Gambar3](gambar/Flowchart.png)
+# Membuat Program untuk Mencari Luas Lingkaran
+Rumus Luas Lingkaran adalah phi*r*r atau phi*r² 
+```
+print('Menghitung luas lingakaran')
+print('==============================')
+```
+# Menginput Nilai Jari-Jari
+Menginput jari jari untuk mencari luas lingkaran
+```
+r = int(input('masukan jari-jari lingkaran: '))
+```
+# Mendeklarasikan Nilai Phi
+Nilai Phi adalah 3,14 atau 22/7
+```
+phi = 3.14
+L = phi * (r * r)
+```
+# Mencetak Hasil Luas Lingkaran
+```
+print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
+```
+![Gambar3](gambar/Latihan3.png)
 
-<img width="221" alt="Screenshot 2022-10-19 131840" src="https://user-images.githubusercontent.com/115516688/196612006-f785e13d-1d42-46b2-b536-e7ae7e229cf4.png">
-
-Lalu masukan angka yang ingin dijumlahkan,hasilnya seperti dibawah ini:
-
-<img width="713" alt="Screenshot 2022-10-19 132111" src="https://user-images.githubusercontent.com/115516688/196612276-29dfbe95-7a3d-4e09-9f06-03e70d55835a.png">
-
-
-## Latihan 3
-
-Python juga mempunyai fungsi 'input( )' cara penggunaannya adalah
-
-<img width="219" alt="Screenshot 2022-10-19 133546" src="https://user-images.githubusercontent.com/115516688/196614884-822fe122-42dd-489d-9202-624c93db6006.png">
-
-lalu konversi kan variable nya menjadi angka integer, dengan perintah 'int( )'
-
-![image](https://user-images.githubusercontent.com/115516820/196477440-3fd3ce5e-87bc-4769-8975-fb0438ba1745.png)
-
-print hasil operasi kedua variable dengan string format 
-
-![image](https://user-images.githubusercontent.com/115516820/196479369-2c30fe8f-659f-4452-937b-4a48d6666170.png)
-
-format digunakan untuk menggabungkan variable ke string. operator '%' selain digunakan untuk string formatting, operator ini juga digunakan untuk menghitung operasi 'sisa bagi'
-
-
-# Sekian terimakasih
+# Hasil Latihan 4 Luas Lingkaran
+![Gambar3](gambar/HasilLingkaran.png)
