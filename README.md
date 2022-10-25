@@ -89,7 +89,8 @@ Penggunaan python untuk menginput nilai variabel dengan cara
 a=input("masukkan nilai a:")
 b=input("masukkan nilai b:")
 ```
-![Gambar2](gambar/Latihan2.png)
+![Screenshot (134)](https://user-images.githubusercontent.com/115542704/197808978-be493c4d-985d-4440-893e-2a6d2eaef741.png)
+
 
 # Cetak Variable
 Mencetak nilai kedua variabel ketika sudah di input 
