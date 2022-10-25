@@ -1,5 +1,5 @@
-## Nama = Azhyka Rizki Ramadhan
-## NIM = 212210287
+## Nama = Rini Ariza
+## NIM = 212210337
 ## Kelas = TI.22.A3
 
 # Latihan 1 
