@@ -14,7 +14,7 @@ print()
 print('X')
 print('Y')
 print('Z')
-```
+
 ![Gambar1](gambar/Latihan1.png)
 
 # Penggunaan Seperator
