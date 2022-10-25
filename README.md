@@ -73,9 +73,13 @@ print('{0:>3} {1:>16}'.format(0, 10**8))
 print('{0:>3} {1:>16}'.format(0, 10**9))
 print('{0:>3} {1:>16}'.format(0, 10**10))
 ```
-![Gambar1](gambar/Latihan1,3.png)
+![Screenshot (133)](https://user-images.githubusercontent.com/115542704/197805183-31f870f2-4b99-4d2f-b28b-9d87d6445a6d.png)
+
 # Hasil Latihan 1
+
 ![Gambar1](gambar/Hasil1.png)
+
+
 ## Latihan 2
 
 # Input Variable
