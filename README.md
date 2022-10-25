@@ -21,6 +21,7 @@ print('X')
 print('Y')
 print('Z')
 ```
+
 ![Gambar1](gambar/Latihan1.png)
 
 # Penggunaan Seperator
@@ -50,6 +51,7 @@ print(8, 10**8)
 print(9, 10**9)
 print(10, 10**10)
 ```
+
 ![Gambar1](gambar/Latihan1,2.png)
 
 # String Format 2
@@ -68,7 +70,9 @@ print('{0:>3} {1:>16}'.format(0, 10**10))
 ```
 ![Gambar1](gambar/Latihan1,3.png)
 # Hasil Latihan 1
+
 ![Gambar1](gambar/Hasil1.png)
+
 ## Latihan 2
 
 # Input Variable
@@ -100,6 +104,7 @@ Penggunaan python untuk menginput kedua variable
 a=int(a)
 b=int(b)
 ```
+
 ![Gambar2](gambar/Latihan2,3.png)
 
 # Konversi Nilai Variable
@@ -111,14 +116,18 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ![Gambar2](gambar/Latihan2,4.png)
 
 # Hasil Latihan 2
+
 ![Gambar2](gambar/Hasil2.png)
 
 # Latihan 3 Menggunakan String Format untuk membuat Belah Ketupat
+
 ![Gambar3](gambar/Hasil3.png)
 
 # Latihan 4 Luas Lingkaran
 # Flowchart untuk mencari Luas Lingkaran 
+
 ![Gambar3](gambar/Flowchart.png)
+
 # Membuat Program untuk Mencari Luas Lingkaran
 Rumus Luas Lingkaran adalah phi*r*r atau phi*r² 
 ```
@@ -140,6 +149,7 @@ L = phi * (r * r)
 ```
 print('Luas lingakaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
+
 ![Gambar3](gambar/Latihan3.png)
 
 # Hasil Latihan 4 Luas Lingkaran
