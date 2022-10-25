@@ -17,7 +17,10 @@ print('X')
 print('Y')
 print('Z')
 ```
-![Gambar1](gambar/Latihan1.png)
+
+
+![Screenshot (129)](https://user-images.githubusercontent.com/115542704/197797294-23da89d9-af0b-40ab-a225-407809b04cc1.png)
+
 
 # Penggunaan Seperator
 ```
