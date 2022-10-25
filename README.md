@@ -33,7 +33,8 @@ print(w, x, y, z, sep='-----')
 ```
 
 
-![Screenshot (130)](https://user-images.githubusercontent.com/115542704/197803182-5f8e3612-eff1-4d93-9259-92995a7a10ae.png)
+![Screenshot (132)](https://user-images.githubusercontent.com/115542704/197803903-c5ac84d1-5bda-446c-a55c-b227f6a8189d.png)
+
 
 
 
@@ -53,7 +54,10 @@ print(8, 10**8)
 print(9, 10**9)
 print(10, 10**10)
 ```
-![Gambar1](gambar/Latihan1,2.png)
+
+
+![Screenshot (131)](https://user-images.githubusercontent.com/115542704/197804071-d6fd54b5-13a1-4b61-b8ac-b3a15ac357ee.png)
+
 
 # String Format 2
 ```
