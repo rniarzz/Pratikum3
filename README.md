@@ -168,4 +168,4 @@ print('Luas dan keliling lingkaran dengan jari-jari {} adalah {}'.format(r, L))
 # Hasil Latihan 4 Luas Lingkaran
 <img width="323" alt="Screenshot (147)" src="https://user-images.githubusercontent.com/115542704/198237674-d5751c8b-f99a-441b-9d1d-702414e4b023.png">
 
-============Sekian Terimakasih================
+# ============SEKIAN TERIMAKASIH================
