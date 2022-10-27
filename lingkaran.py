@@ -1,4 +1,4 @@
-print('Menghitung luas lingakaran')
+print('Menghitung luas dan keliling lingakaran')
 print('==============================')
 r = int(input('masukan jari-jari lingkaran: '))
 phi = 3.14
