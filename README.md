@@ -140,9 +140,9 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ![Flowchart-menghitung-luas-keliling-lingkaran-1](https://user-images.githubusercontent.com/115542704/198233052-6978bcd6-30e5-4042-ba37-48b7d8ca8acd.png)
 
 # Membuat Program untuk Mencari Luas Lingkaran
-Rumus Luas Lingkaran adalah phi*(r*r) atau phi*r² 
+Rumus Luas Lingkaran adalah phi * (r * r) atau phi * r² 
 
-Rumus Keliling Lingkaran adalah 2*phi*r
+Rumus Keliling Lingkaran adalah 2 * phi * r
 ```
 print('Menghitung luas dan keliling lingakaran')
 print('==============================')
