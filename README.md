@@ -131,7 +131,8 @@ print("hasil pembagian {1}+{0}=%d".format(a,b) %(a/b))
 ![Screenshot (137)](https://user-images.githubusercontent.com/115542704/197817527-0c1424c9-d1cb-4ae3-892e-5c688fbfb5e2.png)
 
 # Latihan 3 Menggunakan String Format untuk membuat Belah Ketupat
-![Gambar3](gambar/Hasil3.png)
+
+![Screenshot (144)](https://user-images.githubusercontent.com/115542704/198204689-4a57ddc7-68ed-4b07-928c-adbd97645b01.png)
 
 # Latihan 4 Luas Lingkaran
 # Flowchart untuk mencari Luas Lingkaran 
