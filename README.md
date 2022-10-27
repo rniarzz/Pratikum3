@@ -163,8 +163,7 @@ K = 2 * phi * r
 ```
 print('Luas dan keliling lingkaran dengan jari-jari {} adalah {}'.format(r, L))
 ```
-![Screenshot (140)](https://user-images.githubusercontent.com/115542704/197825549-abcfc2dc-1458-407a-be7d-f2300b246ca2.png)
-
+<img width="437" alt="Screenshot (146)" src="https://user-images.githubusercontent.com/115542704/198237416-2da1eaf4-aa25-4a58-b04a-dee312ed89cd.png">
 
 # Hasil Latihan 4 Luas Lingkaran
 
