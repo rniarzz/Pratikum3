@@ -1,5 +1,5 @@
 ## Nama = Rini Ariza
-## NIM = 212210337
+## NIM = 312210337
 ## Kelas = TI.22.A3
 
 # Latihan 1 
